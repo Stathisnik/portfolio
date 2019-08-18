@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "TheHistoriaDemo", sans-serif;
+    src: url(images/TheHistoriaDemo.ttf);
+    font-weight: bold;
+}
